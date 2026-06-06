@@ -2,11 +2,11 @@
 
 Choose your language:
 
-- English: `docs/english/`
-- 中文: `docs/chinese/`
-- Espanol: `docs/spanish/`
-- Deutsch: `docs/german/`
-- Русский: `docs/russian/`
+- English: `docs/English/`
+- 中文: `docs/中文/`
+- Espanol: `docs/Español/`
+- Deutsch: `docs/Deutsch/`
+- Русский: `docs/Русский/`
 
 Available guides in every language:
 
