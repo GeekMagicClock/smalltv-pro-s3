@@ -24,7 +24,7 @@ Prepare these two items:
 Also make sure:
 
 1. The device is online
-2. You can open `ii.html`
+2. You can open `settings.html`
 
 ## 3. What is Channel Ref
 
@@ -56,6 +56,11 @@ In Google Cloud Console:
 3. Enable `YouTube Data API v3`
 4. Create an API key
 5. Copy the key
+
+Useful links:
+
+1. Create key: <https://console.cloud.google.com/apis/credentials>
+2. Official guide: <https://developers.google.com/youtube/registering_an_application>
 
 ## 5. Configure the device
 

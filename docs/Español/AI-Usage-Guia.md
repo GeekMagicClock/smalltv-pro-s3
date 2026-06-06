@@ -8,7 +8,7 @@ Comprueba esto primero:
 
 1. El dispositivo esta encendido.
 2. El dispositivo y tu ordenador estan en la misma red local.
-3. Puedes abrir la pagina `ii.html`.
+3. Puedes abrir la pagina `settings.html`.
 4. Conoces la IP del dispositivo.
 5. Python 3 esta instalado.
 
@@ -59,6 +59,10 @@ Descarga:
 claude_usage.py
 ```
 
+Descarga directa:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/claude_usage.py>
+
 ### Paso 3
 
 Ejecuta:
@@ -92,6 +96,10 @@ Descarga:
 ```text
 codex_usage.py
 ```
+
+Descarga directa:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/codex_usage.py>
 
 ### Paso 3
 

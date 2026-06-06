@@ -8,7 +8,7 @@ Please check these items first:
 
 1. The device is powered on.
 2. The device and your computer are on the same local network.
-3. You can open the device web page `ii.html`.
+3. You can open the device web page `settings.html`.
 4. You know the device IP address.
 5. Python 3 is installed on your computer.
 
@@ -59,6 +59,10 @@ Download:
 claude_usage.py
 ```
 
+Direct download:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/claude_usage.py>
+
 ### Step 3
 
 Run:
@@ -92,6 +96,10 @@ Download:
 ```text
 codex_usage.py
 ```
+
+Direct download:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/codex_usage.py>
 
 ### Step 3
 

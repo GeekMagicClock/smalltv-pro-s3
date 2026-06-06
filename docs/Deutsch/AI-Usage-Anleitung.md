@@ -8,7 +8,7 @@ Bitte zuerst pruefen:
 
 1. Das Geraet ist eingeschaltet.
 2. Das Geraet und dein Computer sind im selben lokalen Netzwerk.
-3. Du kannst `ii.html` im Browser oeffnen.
+3. Du kannst `settings.html` im Browser oeffnen.
 4. Du kennst die IP des Geraets.
 5. Python 3 ist installiert.
 
@@ -59,6 +59,10 @@ Lade herunter:
 claude_usage.py
 ```
 
+Direkter Download:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/claude_usage.py>
+
 ### Schritt 3
 
 Starte:
@@ -92,6 +96,10 @@ Lade herunter:
 ```text
 codex_usage.py
 ```
+
+Direkter Download:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/codex_usage.py>
 
 ### Schritt 3
 

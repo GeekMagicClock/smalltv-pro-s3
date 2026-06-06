@@ -8,7 +8,7 @@
 
 1. Устройство включено.
 2. Устройство и компьютер находятся в одной локальной сети.
-3. Вы можете открыть страницу `ii.html`.
+3. Вы можете открыть страницу `settings.html`.
 4. Вы знаете IP-адрес устройства.
 5. На компьютере установлен Python 3.
 
@@ -59,6 +59,10 @@ Claude и Codex используют один и тот же endpoint:
 claude_usage.py
 ```
 
+Прямая ссылка:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/claude_usage.py>
+
 ### Шаг 3
 
 Запустите:
@@ -92,6 +96,10 @@ py claude_usage.py 192.168.1.123
 ```text
 codex_usage.py
 ```
+
+Прямая ссылка:
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/codex_usage.py>
 
 ### Шаг 3
 

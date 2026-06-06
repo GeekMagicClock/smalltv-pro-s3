@@ -24,7 +24,7 @@ Prepara estas dos cosas:
 Tambien confirma:
 
 1. El dispositivo esta en linea
-2. Puedes abrir `ii.html`
+2. Puedes abrir `settings.html`
 
 ## 3. Que es Channel Ref
 
@@ -56,6 +56,11 @@ En Google Cloud Console:
 3. Activa `YouTube Data API v3`
 4. Crea una API key
 5. Copia la clave
+
+Enlaces utiles:
+
+1. Crear API key: <https://console.cloud.google.com/apis/credentials>
+2. Guia oficial: <https://developers.google.com/youtube/registering_an_application>
 
 ## 5. Configurar la pagina del dispositivo
 

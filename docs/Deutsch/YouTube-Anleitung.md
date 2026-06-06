@@ -24,7 +24,7 @@ Du brauchst:
 Bitte auch pruefen:
 
 1. Das Geraet ist online
-2. `ii.html` laesst sich oeffnen
+2. `settings.html` laesst sich oeffnen
 
 ## 3. Was ist Channel Ref
 
@@ -56,6 +56,11 @@ In der Google Cloud Console:
 3. `YouTube Data API v3` aktivieren
 4. API Key erstellen
 5. Key kopieren
+
+Nuetzliche Links:
+
+1. API Key erstellen: <https://console.cloud.google.com/apis/credentials>
+2. Offizielle Anleitung: <https://developers.google.com/youtube/registering_an_application>
 
 ## 5. Im Geraet konfigurieren
 

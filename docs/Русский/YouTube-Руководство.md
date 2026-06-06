@@ -24,7 +24,7 @@
 Также проверьте:
 
 1. Устройство подключено к сети
-2. Вы можете открыть `ii.html`
+2. Вы можете открыть `settings.html`
 
 ## 3. Что такое Channel Ref
 
@@ -56,6 +56,11 @@ some_channel_name
 3. Включите `YouTube Data API v3`
 4. Создайте API key
 5. Скопируйте ключ
+
+Полезные ссылки:
+
+1. Создать API key: <https://console.cloud.google.com/apis/credentials>
+2. Официальная инструкция: <https://developers.google.com/youtube/registering_an_application>
 
 ## 5. Настройка на странице устройства
 

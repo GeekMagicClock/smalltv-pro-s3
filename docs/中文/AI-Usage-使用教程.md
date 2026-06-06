@@ -8,7 +8,7 @@
 
 1. 设备已经开机
 2. 设备和电脑在同一个局域网
-3. 你能打开设备网页 `ii.html`
+3. 你能打开设备网页 `settings.html`
 4. 你知道设备的 IP 地址
 5. 电脑已经安装 Python 3
 
@@ -59,6 +59,10 @@ Claude 和 Codex 最终都发到这个接口：
 claude_usage.py
 ```
 
+直接下载：
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/claude_usage.py>
+
 ### 第 3 步
 
 运行：
@@ -92,6 +96,10 @@ py claude_usage.py 192.168.1.123
 ```text
 codex_usage.py
 ```
+
+直接下载：
+
+<https://raw.githubusercontent.com/GeekMagicClock/smalltv-pro-s3/main/tools/codex_usage.py>
 
 ### 第 3 步
 

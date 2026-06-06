@@ -24,7 +24,7 @@
 同时确认：
 
 1. 设备已经联网
-2. 你能打开 `ii.html`
+2. 你能打开 `settings.html`
 
 ## 三、什么是 Channel Ref
 
@@ -56,6 +56,11 @@ some_channel_name
 3. 启用 `YouTube Data API v3`
 4. 创建 API Key
 5. 复制这个 key
+
+常用链接：
+
+1. 创建 API Key：<https://console.cloud.google.com/apis/credentials>
+2. 官方说明：<https://developers.google.com/youtube/registering_an_application>
 
 ## 五、如何在设备网页里配置
 
